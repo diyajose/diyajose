@@ -1,3 +1,4 @@
+<img src ="https://github.com/diyajose/diyajose/assets/70938427/dd7d0cf0-1c3d-498b-97f0-6858e2d35232" width="100%">
 <h1 align="center">Hi 👋, I'm Diya.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
