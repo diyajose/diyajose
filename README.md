@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working with **Vue.js**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js and Figma**
 
 - 👨‍💻 All of my projects are available at [diyajose.com](diyajose.com)
 
 - 💬 Ask me about **HTML/CSS/JavaScript,Vue.js**
 
-- 📫 How to reach me **diyaajose@gmail.com**
+- 📫 How to reach me **hello@diyajose.com,diyaajose@gmail.com**
 
 - ⚡ Fun fact **I'm not funny, I'm a Bunny ;-P**
 
