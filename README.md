@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diyajose&show_icons=true&locale=en" alt="diyajose" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diyajose&theme=dark" alt="diyajose" /></p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=diyajose&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
