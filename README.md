@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Diya.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working with **Vue.js**
+- 🔭 I’m currently working with **Vue.js**.
 
-- 🌱 I’m currently learning **Vue.js and Figma**
+- 🌱 I’m currently learning **Vue.js and Figma**.
 
-- 👨‍💻 All of my projects are available at [diyajose.com](diyajose.com)
+- 👨‍💻 All of my projects are available at [diyajose.com](diyajose.com).
 
-- 💬 Ask me about **HTML/CSS/JavaScript,Vue.js**
+- 💬 Ask me about **HTML/CSS/JavaScript, Vue.js**.
 
-- 📫 How to reach me **hello@diyajose.com,diyaajose@gmail.com**
+- 📫 How to reach me **hello@diyajose.com** , **diyaajose@gmail.com**.
 
-- ⚡ Fun fact **I'm not funny, I'm a Bunny ;-P**
+- ⚡ Fun fact **I'm not funny, I'm a Bunny ;-P**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
